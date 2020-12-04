@@ -1,6 +1,6 @@
 const {part1, part2} = require('./day2');
 
-describe('Day1', () => {
+describe('Day2', () => {
   describe('part1', () => {
     it('Example 1', () => {
       expect(part1(['1-3 a: abcde', '1-3 b: cdefg', '2-9 c: ccccccccc'])).toBe(2);

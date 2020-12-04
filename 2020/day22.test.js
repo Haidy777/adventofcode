@@ -1,6 +1,6 @@
 const {part1, part2} = require('./day22');
 
-describe('Day1', ()=>{
+describe('Day22', ()=>{
     describe('part1', ()=>{
         it('Example 1', ()=>{
             expect(part1()).toBe(undefined);
