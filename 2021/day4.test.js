@@ -642,11 +642,11 @@ describe('Day4', () => {
 
   describe('part2', () => {
     it('Example 1', () => {
-      expect(part2(example1)).toEqual(-1);
+      expect(part2(example1)).toEqual(1924);
     });
 
-    it('My Input', () => {
-      expect(part2(myInput)).toEqual(-1);
-    });
+    //it('My Input', () => {
+    //  expect(part2(myInput)).toEqual(-1);
+    //});
   });
 });
