@@ -522,13 +522,13 @@ describe('Day5', () => {
     });
 
     it('My Input', () => {
-      expect(part1(myInput)).toEqual(-1);
+      expect(part1(myInput)).toEqual(6189);
     });
   });
 
   describe('part2', () => {
     it('Example 1', () => {
-      expect(part2(example1)).toEqual(-1);
+      expect(part2(example1)).toEqual(12);
     });
 
     it('My Input', () => {
